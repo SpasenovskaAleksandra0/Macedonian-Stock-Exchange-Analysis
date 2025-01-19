@@ -1,4 +1,4 @@
-# A web scraper in Python used to extract real-time stock data from the Macedonian Stock Exchange website. The scraper retrieves company details and historical stock data from MSE’s pages. Collected data is stored in a PostgreSQL database.
+A web scraper in Python used to extract real-time stock data from the Macedonian Stock Exchange website. The scraper retrieves company details and historical stock data from MSE’s pages. Collected data is stored in a PostgreSQL database.
 
 # Prerequisites
 - Python
