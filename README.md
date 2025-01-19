@@ -1,6 +1,7 @@
-Проект по предметот Дизајн и архитектура на софтвер
+Project on the subject Software Design and Architecture
 
-Изработено од: 
-- Марио Галиманоски 221080
-- Александра Спасеновска  221502
-- Филип Рогов 221567
+Made by:
+
+    Mario Gallimanoski 221080
+    Alexandra Spasenovska 221502
+    Philip Rogov 221567
