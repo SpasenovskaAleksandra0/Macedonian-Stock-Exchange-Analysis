@@ -12,9 +12,9 @@ git clone https://github.com/SpasenovskaAleksandra0/Macedonian-Stock-Exchange-An
 cd 'Macedonian-Stock-Exchange-Analysis/Homework 1'
 ```
 
-2. Install requirements
+2. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r dependencies.txt
 ```
 
 # Run the project
